@@ -40,6 +40,6 @@ When I'm not coding, you can find me exploring hiking trails, playing video game
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milly-code&show_icons=true&theme=radical&border_radius=5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=milly-code&theme=radical&border_radius=5&short_numbers=true&mode=weekly)
+<img src="https://streak-stats.demolab.com?user=milly-code&theme=radical&border_radius=5&short_numbers=true&mode=weekly" />
 
 ---
